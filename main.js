@@ -107,9 +107,11 @@ Block.prototype.drawCircle = function () {
   // circle(x, y, blockSize / 2, true);
   ctx.drawImage(appleImage, x - 10, y - 10, blockSize, blockSize);
 };
+
 Block.prototype.equal = function (otherBlock) {
   return this.col === otherBlock.col && this.row === otherBlock.row;
 };
+
 let Snake = function () {
   this.direction = "right";
   this.nextDirection = "right";
