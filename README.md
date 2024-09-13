@@ -25,7 +25,7 @@
 
 * Якщо яблуко не з'їдене, видаляє останній сегмент змійки.
 
-* ## Метод Snake.prototype.checkCollision:**
+* ## Метод Snake.prototype.checkCollision:
 
 ![checkCollision](https://github.com/Korneliia08/Classic-Snake-Game/blob/master/assets/imagesOfCode/checkCollision.png)
 
