@@ -74,7 +74,7 @@
 
 ### Конструктор Block:
 
-!(block)[https://github.com/Korneliia08/Classic-Snake-Game/blob/master/assets/imagesOfCode/block.png]
+![block](https://github.com/Korneliia08/Classic-Snake-Game/blob/master/assets/imagesOfCode/block.png)
 
 * Конструктор Block створює блоки на ігровому полі. Кожен блок визначається координатами col і row, які визначають його позицію на холсті.
 
@@ -88,7 +88,7 @@
 
 ## Ось детальний опис інтервалу та структури ігрового поля, що складається з блоків:
 
-!(setInterval)[https://github.com/Korneliia08/Classic-Snake-Game/blob/master/assets/imagesOfCode/setInterval.png]
+![setInterval](https://github.com/Korneliia08/Classic-Snake-Game/blob/master/assets/imagesOfCode/setInterval.png)
 
 * setInterval() створює цикл, який виконує функцію кожні 180 мілісекунд. Це визначає частоту оновлення гри.
 
